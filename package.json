@@ -7,7 +7,7 @@
   "browser": "dist/togeojson.umd.js",
   "jsdelivr": "dist/togeojson.umd.js",
   "module": "dist/togeojson.es.js",
-  "main": "dist/togeojson.js",
+  "main": "index.js",
   "files": [
     "dist"
   ],
