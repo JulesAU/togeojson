@@ -1,13 +1,13 @@
 {
-  "name": "@tmcw/togeojson",
-  "version": "4.1.0",
+  "name": "@motowhere/togeojson",
+  "version": "4.1.1",
   "description": "convert KML and GPX to GeoJSON",
   "umd:main": "dist/togeojson.umd.js",
   "unpkg": "dist/togeojson.umd.js",
   "browser": "dist/togeojson.umd.js",
   "jsdelivr": "dist/togeojson.umd.js",
   "module": "dist/togeojson.es.js",
-  "main": "index.js",
+  "main": "dist/togeojson.js",
   "files": [
     "dist"
   ],
